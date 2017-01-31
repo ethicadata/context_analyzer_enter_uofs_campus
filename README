@@ -1,0 +1,11 @@
+Survey Module Code for University of Michigan GeoFencing.
+
+This project is based on SampleSurveyControllerLib project. For details on compile and usage steps refer to it.
+
+
+"The project can only be build by ANT, through the provided custom build.xml. To build, type:
+
+ant clean release
+
+And your library will be located at bin/[PROJECT NAME].jar"
+
